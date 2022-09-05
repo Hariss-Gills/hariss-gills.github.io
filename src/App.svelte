@@ -14,7 +14,7 @@
   </div>
   <h1>Vite + Svelte</h1>
 
-  <div class="btn btn-primary">
+  <div class="btn btn-outline btn-primary">
     <Counter />
   </div>
 
