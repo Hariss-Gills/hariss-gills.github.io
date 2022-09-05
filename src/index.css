@@ -1,0 +1,8 @@
+/* Write your global styles here, in PostCSS syntax */
+@tailwind base;
+@tailwind components;
+
+/* Custom classes go here */
+/* This will always be included in your compiled CSS */
+
+@tailwind utilities;
