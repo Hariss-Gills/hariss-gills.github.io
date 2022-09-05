@@ -5,16 +5,16 @@
 
 <main>
   <div>
-    <a href="https://vitejs.dev" target="_blank"> 
+    <a href="https://vitejs.dev" target="_blank">
       <img src="/vite.svg" class="logo" alt="Vite Logo" />
     </a>
-    <a href="https://svelte.dev" target="_blank"> 
+    <a href="https://svelte.dev" target="_blank">
       <img src={svelteLogo} class="logo svelte" alt="Svelte Logo" />
     </a>
   </div>
   <h1>Vite + Svelte</h1>
 
-  <div class="card">
+  <div class="btn btn-primary">
     <Counter />
   </div>
 
