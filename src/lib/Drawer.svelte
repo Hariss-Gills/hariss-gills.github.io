@@ -11,7 +11,7 @@
 
   <div class="drawer-side">
     <label for="my-drawer" class="drawer-overlay"/>
-    <ul class="menu p-4 overflow-y-auto w-80 bg-base-300Y text-base-content">
+    <ul class="menu p-4 overflow-y-auto w-80 bg-base-300 text-base-content">
       <!-- Sidebar content here -->
        <li><a>Sidebar Item 1</a></li>
       <li><a>Sidebar Item 2</a></li>
